@@ -4,8 +4,8 @@ c = float(input("Enter c:\n"))
 
 delta = b**2 - 4 * a * c
 if delta < 0:
-    print("There are two complex roots")
+    print("There are two complex roots.")
 elif delta == 0:
-    print("There are one root")
+    print("There are one reel root.")
 else:
-    print("There are two roots")
+    print("There are two reel roots.")
