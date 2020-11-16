@@ -7,4 +7,3 @@ while a>0 and b>0:
   a //= 10
   b //= 10
 print (match)
-
