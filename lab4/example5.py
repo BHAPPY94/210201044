@@ -4,7 +4,10 @@ if numbers > 2:
   for i in range(2, numbers):
     nextElement = fibo[i-1] + fibo[i-2]
     fibo.append(nextElement)
+<<<<<<< HEAD
 if numbers <=2:
   fibo
 else:
   print(fibo)
+=======
+print(fibo)
